@@ -249,8 +249,8 @@ button {
 
 .sides {
     display: grid;
-    gap: 30px;
-    align-content:space-between;
+    gap: 65px;
+    align-content:start;
 }
 
 .trending {

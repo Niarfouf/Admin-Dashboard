@@ -90,7 +90,10 @@ body {
     gap: 30px;
     
 }
-
+.projects {
+    margin: 0;
+    padding:0;
+}
 .main-title {
     display: grid;
     grid-auto-flow: column;
@@ -247,7 +250,7 @@ button {
 .sides {
     display: grid;
     gap: 30px;
-    align-content: space-between;
+    align-content:space-between;
 }
 
 .trending {
